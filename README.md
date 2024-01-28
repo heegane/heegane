@@ -1,9 +1,9 @@
 ### Hi there 👋
-- 🌱 I’m currently learning ...
-- JAVA, Spring, Spring Boot, MySQL, Redis, Docker
+- 🌱 I’m currently learning
+  - Java, Spring, Spring Boot, MySQL, Redis, Docker
 
-- 📫 How to reach me: ...
-- hyeonhee.dev@gmail.com
+- 📫 How to reach me
+  - hyeonhee.dev@gmail.com
 
 <!--
 **heegane/heegane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
