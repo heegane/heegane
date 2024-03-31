@@ -3,7 +3,7 @@
   - Java, Spring, Spring Boot, MySQL, Redis, Docker
 
 - 📫 How to reach me
-  - hyeonhee.dev@gmail.com
+  - 2hyeonheedev@gmail.com
 
 <!--
 **heegane/heegane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
