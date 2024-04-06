@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🌱 I’m currently learning
-  - Java, Spring, Spring Boot, MySQL, Redis, Docker
+  - Java, Spring, Spring Boot, MySQL, Redis, Docker, AWS
 
 - 📫 How to reach me
   - 2hyeonheedev@gmail.com
