@@ -1,9 +1,12 @@
-### Hi there 👋
-- 🌱 I’m currently learning
-  - Java, Spring, Spring Boot, MySQL, Redis, Docker, AWS
+SKILLS
+-
+[![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,mysql,redis,docker,aws)](https://skillicons.dev)
 
-- 📫 How to reach me
-  - 2hyeonheedev@gmail.com
+<br>
+
+CONTACT
+-
+2hyeonheedev@gmail.com
 
 <!--
 **heegane/heegane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
