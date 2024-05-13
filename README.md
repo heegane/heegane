@@ -2,8 +2,6 @@ SKILLS
 -
 [![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,mysql,redis,docker,aws)](https://skillicons.dev)
 
-<br>
-
 CONTACT
 -
 2hyeonheedev@gmail.com
